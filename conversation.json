@@ -17,7 +17,7 @@
     "id": 1,
     "message": ["<b>Save the Date</b> "],
     "image": [
-      "Invitation.jpeg"
+      "Invitation.jpg"
     ],
     "buttons": [
       {
@@ -75,7 +75,7 @@
     ],
     "buttons": [
       {
-        "text": "One more 🥹",
+        "text": "One more 🥳",
         "next": 6
       }
     ]
